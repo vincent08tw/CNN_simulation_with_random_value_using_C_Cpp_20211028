@@ -1,10 +1,10 @@
 # CNN_simulation_with_random_value_using_C_Cpp_20211028
  
 ## environment  
-OS: window10
-IDE: dev c++
+OS: window10  
+IDE: dev c++  
 
-
+there are a lot of function and definition is inherited from [this project](https://github.com/vincent08tw/Matrix_multiply_C_Cpp)  
 
 ## parameter  
 

@@ -1,10 +1,10 @@
 # CNN_simulation_with_random_value_using_C_Cpp_20211028
  
 ## environment  
-OS: window10
-IDE: dev c++
+OS: window10  
+IDE: dev c++  
 
-
+there are a lot of function and definition is inherited from [this project](https://github.com/vincent08tw/Matrix_multiply_C_Cpp)  
 
 ## parameter  
 
@@ -38,3 +38,4 @@ After executing "cnn_simulation.exe" you can check the random input, random kern
 
 Example: "matrix_output4.txt" is the result of convolution of input and the 6th kernel.  
 The content of randon input is write in "matrix_in.txt", and you can check The content of the 6th kernel in "matrix_kernel6.txt".  
+
